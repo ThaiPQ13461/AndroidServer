@@ -1,0 +1,6 @@
+exports.myDataTime = function(){
+    return Date();
+}
+exports.sum = (a,b) => {
+    return a+b;
+}
